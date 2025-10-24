@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Rostyslav Yanikin",
-  "license": "ISC"
+  "license": "ISC",
+  "start": "node main.js"
 }
